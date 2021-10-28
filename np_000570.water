@@ -1,0 +1,59 @@
+########################################
+# Program: water
+# Rundate: Thu 28 Oct 2021 10:41:33
+# Commandline: water
+#    [-asequence] 88C.txt
+#    [-bsequence] CC_CKR2B.txt
+# Align_format: srspair
+# Report_file: np_000570.water
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000570.1
+# 2: NP_001116868.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 343
+# Identity:     259/343 (75.5%)
+# Similarity:   291/343 (84.8%)
+# Gaps:           6/343 ( 1.7%)
+# Score: 1365.0
+# 
+#
+#=======================================
+
+NP_000570.1       10 YDINYYTSEPCQKINVKQIAARLLPPLYSLVFIFGFVGNMLVILILINCK     59
+                     :|.:|  ..||.|.:||||.|:||||||||||||||||||||:|||||||
+NP_001116868.     24 FDYDY--GAPCHKFDVKQIGAQLLPPLYSLVFIFGFVGNMLVVLILINCK     71
+
+NP_000570.1       60 RLKSMTDIYLLNLAISDLFFLLTVPFWAHYAAAQWDFGNTMCQLLTGLYF    109
+                     :||.:|||||||||||||.||:|:|.|||.||.:|.|||.||:|.||||.
+NP_001116868.     72 KLKCLTDIYLLNLAISDLLFLITLPLWAHSAANEWVFGNAMCKLFTGLYH    121
+
+NP_000570.1      110 IGFFSGIFFIILLTIDRYLAVVHAVFALKARTVTFGVVTSVITWVVAVFA    159
+                     ||:|.|||||||||||||||:|||||||||||||||||||||||:|||||
+NP_001116868.    122 IGYFGGIFFIILLTIDRYLAIVHAVFALKARTVTFGVVTSVITWLVAVFA    171
+
+NP_000570.1      160 SLPGIIFTRSQKEGLHYTCSSHFPYSQYQFWKNFQTLKIVILGLVLPLLV    209
+                     |:||||||:.|||...|.|..:||    :.|.||.|:...|||||||||:
+NP_001116868.    172 SVPGIIFTKCQKEDSVYVCGPYFP----RGWNNFHTIMRNILGLVLPLLI    217
+
+NP_000570.1      210 MVICYSGILKTLLRCRNEKKRHRAVRLIFTIMIVYFLFWAPYNIVLLLNT    259
+                     ||||||||||||||||||||||||||:||||||||||||.|||||:||||
+NP_001116868.    218 MVICYSGILKTLLRCRNEKKRHRAVRVIFTIMIVYFLFWTPYNIVILLNT    267
+
+NP_000570.1      260 FQEFFGLNNCSSSNRLDQAMQVTETLGMTHCCINPIIYAFVGEKFRNYLL    309
+                     |||||||:||.|:::||||.||||||||||||||||||||||||||.||.
+NP_001116868.    268 FQEFFGLSNCESTSQLDQATQVTETLGMTHCCINPIIYAFVGEKFRRYLS    317
+
+NP_000570.1      310 VFFQKHIAKRFCKCCSIFQQEAPERASSVYTRSTGEQEISVGL    352
+                     |||:|||.|||||.|.:|.:|..:..:|..|.||||||:|.||
+NP_001116868.    318 VFFRKHITKRFCKQCPVFYRETVDGVTSTNTPSTGEQEVSAGL    360
+
+
+#---------------------------------------
+#---------------------------------------

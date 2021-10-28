@@ -1,0 +1,253 @@
+BLASTP 2.10.1+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: User specified sequence set (Input: hemoglobin.tfa).
+           1 sequences; 147 total letters
+
+
+
+Query= mutatedSequence
+
+Length=147
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+NP_000509.1 hemoglobin subunit beta [Homo sapiens]                    95.7    3e-33
+
+
+> NP_000509.1 hemoglobin subunit beta [Homo sapiens]
+Length=147
+
+ Score = 95.7 bits (344),  Expect = 3e-33, Method: Compositional matrix adjust.
+ Identities = 74/147 (50%), Positives = 87/147 (59%), Gaps = 0/147 (0%)
+
+Query  1    MVHTTPSGHSAYTIHWGKRRRGEVGLKVLIWLVAVYVWSQYFFPSFGQLPTPLCVYGNPK  60
+            MVH TP   SA T  WGK   +EVG   L +L+ VY W+Q FF SFG+L+TP  V GNPK
+Sbjct  1    MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK  60
+
+Query  61   GKHHGSNMKNATSRISIHYDEYPGCCCTLHEPHKDKGCVKPENFPVQECRGSQVLSHGFG  120
+             K HG ++  A S    H D+  G   TL E H DK  V PENF +       VL+H FG
+Sbjct  61   VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG  120
+
+Query  121  KDFTGPVQACMIKVWEGLAIALAHSYH  147
+            K+FT PVQA   KV  G+A ALAH YH
+Sbjct  121  KEFTPPVQAAYQKVVAGVANALAHKYH  147
+
+
+
+Lambda      K        H        a         alpha
+   0.230   0.0918    0.291    0.980     11.8 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.182   0.0240   0.0730     2.50     96.3     96.8 
+
+Effective search space used: 14400
+
+
+Query= mutatedSequence
+
+Length=147
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+NP_000509.1 hemoglobin subunit beta [Homo sapiens]                    36.6    2e-09
+
+
+> NP_000509.1 hemoglobin subunit beta [Homo sapiens]
+Length=147
+
+ Score = 36.6 bits (119),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 41/128 (32%), Positives = 62/128 (48%), Gaps = 8/128 (6%)
+
+Query  22   DPPGPLILIWYNHVYVWSQYYFPSLGQMPTPKCGYVNPHGFHLSMPTKGATSILCEYYGE  81
+            D  G   L +   VY W+Q +F S+G+++TP     NP     +    GA S      ++
+Sbjct  22   DEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDN  81
+
+Query  82   YIGCCKQLHQPHKDYIGNKPENF----HVQHCRMSQRWFKYSGKDRTPPVRADYVMVWEN  137
+              G    L + H D +   PENF    +V  C ++++     GK+ TPPV+A Y  V   
+Sbjct  82   LKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHF----GKEFTPPVQAAYQKVVAG  137
+
+Query  138  VAEWLAHN  145
+            VA+ LAH+
+Sbjct  138  VANALAHK  145
+
+
+
+Lambda      K        H        a         alpha
+   0.225   0.0930    0.314    0.980     11.8 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.182   0.0240   0.0730     2.50     96.3     96.8 
+
+Effective search space used: 14400
+
+
+Query= mutatedSequence
+
+Length=147
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+NP_000509.1 hemoglobin subunit beta [Homo sapiens]                    19.6    0.008
+
+
+> NP_000509.1 hemoglobin subunit beta [Homo sapiens]
+Length=147
+
+ Score = 19.6 bits (54),  Expect = 0.008, Method: Compositional matrix adjust.
+ Identities = 8/20 (40%), Positives = 13/20 (65%), Gaps = 0/20 (0%)
+
+Query  126  PVGSIYKMVTETVAEWLSHN  145
+            PV + Y+ V   VA+ L+H+
+Sbjct  126  PVQAAYQKVVAGVANALAHK  145
+
+
+ Score = 16.1 bits (41),  Expect = 0.14, Method: Compositional matrix adjust.
+ Identities = 3/36 (8%), Positives = 17/36 (47%), Gaps = 0/36 (0%)
+
+Query  50  YGCFSGYVNPHGQHCSMPIEGLNSELQGYYGEEIDR  85
+           +  F++   P++   +  + +    + G +++ + +
+Sbjct  43  FESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAH  78
+
+
+ Score = 15.9 bits (40),  Expect = 0.16, Method: Compositional matrix adjust.
+ Identities = 2/11 (18%), Positives = 7/11 (64%), Gaps = 0/11 (0%)
+
+Query  86   CMQDTQYPKDY  96
+            C+   ++ K++
+Sbjct  113  CVLAHHFGKEF  123
+
+
+ Score = 11.7 bits (24),  Expect = 6.1, Method: Compositional matrix adjust.
+ Identities = 0/9 (0%), Positives = 6/9 (67%), Gaps = 0/9 (0%)
+
+Query  131  YKMVTETVA  139
+            ++++ + + 
+Sbjct  104  FRLLGNVLV  112
+
+
+
+Lambda      K        H        a         alpha
+   0.229   0.0939    0.321    0.980     11.8 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.182   0.0240   0.0730     2.50     96.3     96.8 
+
+Effective search space used: 14400
+
+
+Query= mutatedSequence
+
+Length=147
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+NP_000509.1 hemoglobin subunit beta [Homo sapiens]                    13.0    1.8  
+
+
+> NP_000509.1 hemoglobin subunit beta [Homo sapiens]
+Length=147
+
+ Score = 13.0 bits (29),  Expect = 1.8, Method: Compositional matrix adjust.
+ Identities = 3/18 (17%), Positives = 8/18 (44%), Gaps = 0/18 (0%)
+
+Query  39   SPLSFNFEAREYDCITGY  56
+             P +F + +    C+ + 
+Sbjct  100  DPENFRLLGNVLVCVLAH  117
+
+
+ Score = 11.9 bits (25),  Expect = 5.0, Method: Compositional matrix adjust.
+ Identities = 3/22 (14%), Positives = 8/22 (36%), Gaps = 0/22 (0%)
+
+Query  2   WCGLPITGTAYSKYTNMRVRFP  23
+           W  + +   +      + V +P
+Sbjct  16  WGKVNVDEVGGEALGRLLVVYP  37
+
+
+
+Lambda      K        H        a         alpha
+   0.226   0.0898    0.267    0.980     11.8 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.182   0.0240   0.0730     2.50     96.3     96.8 
+
+Effective search space used: 14400
+
+
+Query= mutatedSequence
+
+Length=147
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+NP_000509.1 hemoglobin subunit beta [Homo sapiens]                    11.9    4.5  
+
+
+> NP_000509.1 hemoglobin subunit beta [Homo sapiens]
+Length=147
+
+ Score = 11.9 bits (25),  Expect = 4.5, Method: Compositional matrix adjust.
+ Identities = 1/8 (13%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  99   YYFAYGSF  106
+            ++ ++G +
+Sbjct  42   FFESFGDL  49
+
+
+ Score = 11.4 bits (23),  Expect = 7.8, Method: Compositional matrix adjust.
+ Identities = 3/9 (33%), Positives = 5/9 (56%), Gaps = 0/9 (0%)
+
+Query  91   FYPVKKEGY  99
+            F P  + +Y
+Sbjct  123  FTPPVQAAY  131
+
+
+ Score = 11.2 bits (22),  Expect = 8.2, Method: Compositional matrix adjust.
+ Identities = 4/16 (25%), Positives = 9/16 (56%), Gaps = 2/16 (13%)
+
+Query  19   CDRFPQTRIPHSFMNV  34
+            CD++     P++F  +
+Sbjct  94   CDKLHVD--PENFRLL  107
+
+
+
+Lambda      K        H        a         alpha
+   0.226   0.0902    0.263    0.980     11.8 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.182   0.0240   0.0730     2.50     96.3     96.8 
+
+Effective search space used: 14400
+
+
+  Database: User specified sequence set (Input: hemoglobin.tfa).
+    Posted date:  Unknown
+  Number of letters in database: 147
+  Number of sequences in database:  1
+
+
+
+Matrix: pam250
+Gap Penalties: Existence: 14, Extension: 2
+Neighboring words threshold: 11
+Window for multiple hits: 40

@@ -1,0 +1,1012 @@
+########################################
+# Program: water
+# Rundate: Tue 26 Oct 2021 16:49:09
+# Commandline: water
+#    -asequence hemoglobin.tfa
+#    -bsequence query0.tfa
+# Align_format: srspair
+# Report_file: np_000509.water
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence0
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 147
+# Identity:     120/147 (81.6%)
+# Similarity:   125/147 (85.0%)
+# Gaps:           0/147 ( 0.0%)
+# Score: 590.0
+# 
+#
+#=======================================
+
+NP_000509.1        1 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+                     |||||.||||.||||..||||||||.||||||.||||||.||||||||:|
+mutatedSequen      1 MVHLTREEKSNVTALTKKVNVDEVGKEALGRLFVVYPWTYRFFESFGDIS     50
+
+NP_000509.1       51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+                     |.||||.|||.:|||||||.||||||||||||||||.|.||:|||.||.|
+mutatedSequen     51 TWDAVMVNPKYQAHGKKVLIAFSDGLAHLDNLKGTFDTWSEIHCDGLHTD    100
+
+NP_000509.1      101 PENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH    147
+                     ||||||||.||.||||:|||:|.|.|.||||||||||||||||.|.|
+mutatedSequen    101 PENFRLLGFVLSCVLANHFGEEPTQPWQAAYQKVVAGVANALAMKRH    147
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 145
+# Identity:      98/145 (67.6%)
+# Similarity:   103/145 (71.0%)
+# Gaps:           0/145 ( 0.0%)
+# Score: 422.0
+# 
+#
+#=======================================
+
+NP_000509.1        1 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+                     |.|||.||||.|.|...||||||||.|||.||.||.|.|..||||.||:|
+mutatedSequen      1 MDHLTREEKSNVAADTQKVNVDEVGAEALFRLFVVNPNTFPFFESPGDIS     50
+
+NP_000509.1       51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+                     |.||.|.|||.:.||.|||.||||||||.||.|.||...||:.||.||.|
+mutatedSequen     51 TWDAWMVNPKYQRHGCKVLIAFSDGLAHWDNHKMTFDFRSEIRCDGLHTD    100
+
+NP_000509.1      101 PENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHK    145
+                     ||||||||.||.||||:|||:|...|..|..|||||||||||..|
+mutatedSequen    101 PENFRLLGFVLSCVLANHFGEEPKQPWVAWNQKVVAGVANALDMK    145
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence2
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 148
+# Identity:      81/148 (54.7%)
+# Similarity:    88/148 (59.5%)
+# Gaps:           6/148 ( 4.1%)
+# Score: 298.0
+# 
+#
+#=======================================
+
+NP_000509.1        1 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+                     |.|||..|.|.|.|...|..|||||.:||.||..|...|..||||.||:|
+mutatedSequen      1 MDHLTRPEVSYVAADTQKCVVDEVGAKALFRLFNVNWNTFPFFESPGDIS     50
+
+NP_000509.1       51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+                     |..|.|.|...:.||.|||.|..|||.|.||.|.||...||:..|.|..|
+mutatedSequen     51 TWSAWMKNLDYQRHGCKVLIAAPDGLNHWDNQKMTFDFRSEIRIDGLRTD    100
+
+NP_000509.1      101 PENFRLLGNVLVCVLAHHFG---KEFTPPVQAAYQKVVAGVANALAHK    145
+                     ||||||||.||:|||.:|||   |:|.   .|...||||||||||..|
+mutatedSequen    101 PENFRLLGFVLICVLCNHFGEHPKQFW---SARNIKVVAGVANALDMK    145
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence3
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 148
+# Identity:      71/148 (48.0%)
+# Similarity:    77/148 (52.0%)
+# Gaps:           6/148 ( 4.1%)
+# Score: 245.0
+# 
+#
+#=======================================
+
+NP_000509.1        1 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+                     |.|.|..|.|.|.|......||.|....|.||..|...|..||||.||.|
+mutatedSequen      1 MDHYTRPEVSLVAADTSPCKVDYVPACVLFRLFNVNVNTVPFFESPGDSS     50
+
+NP_000509.1       51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+                     |..|||.|...:.||.|.|.|:.|||.|.||.|.||...||:..|.|..|
+mutatedSequen     51 TWSAVMKNLDTQRHGCKHLIAYPDGLNHWDNQKMTFDFRSEIRVDGLRTD    100
+
+NP_000509.1      101 PENFRLLGNVLVCVLAHHFGKEFTPPVQ---AAYQKVVAGVANALAHK    145
+                     ||||||||..|:|||.:||.:.   |.|   |....|.|||||.|..|
+mutatedSequen    101 PENFRLLGIQLICVLCNHFDEN---PKQFWTANNIMVYAGVANPLIMK    145
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence4
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 148
+# Identity:      58/148 (39.2%)
+# Similarity:    65/148 (43.9%)
+# Gaps:           6/148 ( 4.1%)
+# Score: 167.0
+# 
+#
+#=======================================
+
+NP_000509.1        1 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+                     |.|.|..|.|.|...........|....|..||.|...|..||||.||.|
+mutatedSequen      1 MDHYTRPEVSLVGNDTSPCKPYFVPANVLFTLLNVNVNTVPFFESPGDSS     50
+
+NP_000509.1       51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+                     |.:||..|...:.||.|.|.|..:||.|.||....|...||:....|..|
+mutatedSequen     51 TWEAVAKNLDTQRHGCKHLIALPNGLNHWDNQAMNFDFRSEIRVYGLRTD    100
+
+NP_000509.1      101 PENFRLLGNVLVCVLAHHFG---KEFTPPVQAAYQKVVAGVANALAHK    145
+                     ||.|||||....|||.:||.   |:|...:..   ...|||.|.|..|
+mutatedSequen    101 PEKFRLLGIQKQCVLCNHFDENPKQFNTALNI---MPYAGVVNILIMK    145
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence5
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 134
+# Identity:      47/134 (35.1%)
+# Similarity:    60/134 (44.8%)
+# Gaps:          16/134 (11.9%)
+# Score: 133.5
+# 
+#
+#=======================================
+
+NP_000509.1       18 KVNVDEVGGEA------------LGRLLVVYPWTQRFFESFGDLSTPDAV     55
+                     :|.|..||.:.            |..||:....|..|:||.||.:|.:||
+mutatedSequen      6 RVEVSLVGNDTSPCKPYFVPANILFTLLLKNVNTVAFWESPGDSNTWEAV     55
+
+NP_000509.1       56 MGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFR    105
+                     ......:.||.|......:||.|.||....|...|||....:..|||:||
+mutatedSequen     56 AKILDTQIHGCKHKIPTPNGLNHWDNQNMNFDFKSELRVYGIRTDPEDFR    105
+
+NP_000509.1      106 LLGNVLVCVLAHHFG---KEF-TPPVQAAYQKVV    135
+                     |||....|||.:||.   |:| |..:...|..||
+mutatedSequen    106 LLGIQNACVLVNHFDENPKQFNTALMHMPYPGVV    139
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence6
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 119
+# Identity:      41/119 (34.5%)
+# Similarity:    52/119 (43.7%)
+# Gaps:           0/119 ( 0.0%)
+# Score: 126.0
+# 
+#
+#=======================================
+
+NP_000509.1        1 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+                     |:|.|..|.|.|...|............|..||:....|..|:||.|.::
+mutatedSequen      1 MIHYTRVEVSLVGNDWSPCKKYFRDANILFTLLLKNVNTVAFWESPGGVN     50
+
+NP_000509.1       51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+                     |.:||......:.||.|......:||.|.||...||...|.|....:..|
+mutatedSequen     51 TQEAVAKIMDNQIHGCKNKIPTPNGLNHRDNCNMTFDFKSHLRVAGIRTD    100
+
+NP_000509.1      101 PENFRLLGNVLVCVLAHHF    119
+                     .|:|||||....||..:||
+mutatedSequen    101 HEDFRLLGPQNACVKVNHF    119
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence7
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 81
+# Identity:      28/81 (34.6%)
+# Similarity:    39/81 (48.1%)
+# Gaps:           0/81 ( 0.0%)
+# Score: 87.0
+# 
+#
+#=======================================
+
+NP_000509.1       39 TQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFAT     88
+                     |..|:||.|.::|.:|||.....:.|..|.:.....||:|.|:.:.|...
+mutatedSequen     39 TVAFWESTGLVNTQEAVMKIMDNQIHCCKNVIPTPIGLSHNDDCQMTTKF     88
+
+NP_000509.1       89 LSELHCDKLHVDPENFRLLGNVLVCVLAHHF    119
+                     .|.|....:....|.|||||....||..:||
+mutatedSequen     89 KSHLRVAGIATKHEPFRLLGPQNACVKVNHF    119
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence8
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 81
+# Identity:      25/81 (30.9%)
+# Similarity:    34/81 (42.0%)
+# Gaps:           0/81 ( 0.0%)
+# Score: 64.0
+# 
+#
+#=======================================
+
+NP_000509.1       39 TQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFAT     88
+                     |..|:.|.|.::|.:|.|.....:.|..|.:.....||.|.|..:.|...
+mutatedSequen     39 TVAFWNSTGCVNTQEAQMKIMDNQRHCCKNVIPTPIGLEHNDACQMTTKQ     88
+
+NP_000509.1       89 LSELHCDKLHVDPENFRLLGNVLVCVLAHHF    119
+                     .|......:....|.|||||....||..:||
+mutatedSequen     89 KSHSIVAPIATKHEPFRLLGEQNNCVKCNHF    119
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence9
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 29
+# Identity:      10/29 (34.5%)
+# Similarity:    14/29 (48.3%)
+# Gaps:           2/29 ( 6.9%)
+# Score: 29.0
+# 
+#
+#=======================================
+
+NP_000509.1       86 FATLSEL-HCDKLHVDPENFRLLGNVLVC    113
+                     |..|.|. :|.|.:...||.: :||...|
+mutatedSequen    104 FRLLGEQNNCQKCNSFDENPK-MGNTQFC    131
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence10
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 32
+# Identity:      10/32 (31.2%)
+# Similarity:    16/32 (50.0%)
+# Gaps:           3/32 ( 9.4%)
+# Score: 30.0
+# 
+#
+#=======================================
+
+NP_000509.1       32 LLVVYPWTQRFFESFGDLSTPDA---VMGNPK     60
+                     ||:....|.||....|.::|.:|   :|.|.:
+mutatedSequen     32 LLLCCVHTGRFVNHTGCVNTQEAQEKIMDNQR     63
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence11
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 53
+# Identity:      13/53 (24.5%)
+# Similarity:    22/53 (41.5%)
+# Gaps:           8/53 (15.1%)
+# Score: 28.5
+# 
+#
+#=======================================
+
+NP_000509.1       96 KLHVDPENFRLLGNVLVCV----LAHHFGKEFTPPVQAAYQKVVAGVANA    141
+                     |.:....|:..|| :..||    ..:|.|...|   :.|.:|::...|:.
+mutatedSequen     20 KTYTRDYNYLFLG-LHCCVHTGRFVNHVGMVNT---KRAQKKIMDNQAHC     65
+
+NP_000509.1      142 LAH    144
+                     ..|
+mutatedSequen     66 WTH     68
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence12
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 20
+# Identity:       7/20 (35.0%)
+# Similarity:    10/20 (50.0%)
+# Gaps:           4/20 (20.0%)
+# Score: 25.5
+# 
+#
+#=======================================
+
+NP_000509.1        6 PEE----KSAVTALWGKVNV     21
+                     ||.    ::...||:|..||
+mutatedSequen    120 PENPKGGRTGAAALYGPHNV    139
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence13
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 24
+# Identity:       7/24 (29.2%)
+# Similarity:    12/24 (50.0%)
+# Gaps:           4/24 (16.7%)
+# Score: 28.5
+# 
+#
+#=======================================
+
+NP_000509.1        2 VHLTPEE----KSAVTALWGKVNV     21
+                     ::..||.    ::...||:|..||
+mutatedSequen    116 IYSPPENPKGFRTGAAALYGPPNV    139
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence14
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 49
+# Identity:      13/49 (26.5%)
+# Similarity:    19/49 (38.8%)
+# Gaps:          14/49 (28.6%)
+# Score: 33.5
+# 
+#
+#=======================================
+
+NP_000509.1       89 LSELHCDKLHVDPENFRLLG----------NVLVCVLAHHFGKEFTPPV    127
+                     |..|.|...|...|:..::.          ||..|: :|.|   .|||:
+mutatedSequen     31 LGGLCCQHTHRQTEHLGMVNYWRAQKWIHHNVAHCI-SHVF---TTPPL     75
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence15
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 19
+# Identity:       9/19 (47.4%)
+# Similarity:    11/19 (57.9%)
+# Gaps:           4/19 (21.1%)
+# Score: 30.0
+# 
+#
+#=======================================
+
+NP_000509.1      109 NVLVCVLAHHFGKEFTPPV    127
+                     ||..|:| |.|   .|||:
+mutatedSequen     61 NVAHCIL-HVF---TTPPL     75
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence16
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 19
+# Identity:       7/19 (36.8%)
+# Similarity:     9/19 (47.4%)
+# Gaps:           3/19 (15.8%)
+# Score: 24.0
+# 
+#
+#=======================================
+
+NP_000509.1        6 PEE---KSAVTALWGKVNV     21
+                     |.|   |:....|:|..||
+mutatedSequen    121 PNELGFKTGEACLYGMQNV    139
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence17
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 24
+# Identity:       7/24 (29.2%)
+# Similarity:    10/24 (41.7%)
+# Gaps:           7/24 (29.2%)
+# Score: 24.0
+# 
+#
+#=======================================
+
+NP_000509.1       22 DEVGGEAL-------GRLLVVYPW     38
+                     :.|||...       .||::|..|
+mutatedSequen     29 NHVGGSCCQITPRQSWRLVMVQRW     52
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence18
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 44
+# Identity:       9/44 (20.5%)
+# Similarity:    18/44 (40.9%)
+# Gaps:           6/44 (13.6%)
+# Score: 28.5
+# 
+#
+#=======================================
+
+NP_000509.1       40 QRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLK     83
+                     :|.::...|..:.|..:|.|..::.      .|..|.|.|..::
+mutatedSequen    100 ERCYDELVDKQSNDGFIGAPTPRSL------TFKTGEADLGGMQ    137
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence19
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 52
+# Identity:      14/52 (26.9%)
+# Similarity:    20/52 (38.5%)
+# Gaps:           1/52 ( 1.9%)
+# Score: 30.0
+# 
+#
+#=======================================
+
+NP_000509.1       73 SDGLAHLDNLKGTFATLS-ELHCDKLHVDPENFRLLGNVLVCVLAHHFGK    121
+                     ||....:..:...|:.|: |.|.|.|.....|...:|......|..|.|:
+mutatedSequen     81 SDHPTSVQYMTSIFSRLAMERHYDILRDKQSNRGDIGAPTCRSLTFHTGE    130
+
+NP_000509.1      122 EF    123
+                     .|
+mutatedSequen    131 AF    132
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence20
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 7
+# Identity:       3/7 (42.9%)
+# Similarity:     5/7 (71.4%)
+# Gaps:           0/7 ( 0.0%)
+# Score: 24.0
+# 
+#
+#=======================================
+
+NP_000509.1       12 VTALWGK     18
+                     :|.:|.|
+mutatedSequen    133 LTGMWNK    139
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence21
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 7
+# Identity:       3/7 (42.9%)
+# Similarity:     5/7 (71.4%)
+# Gaps:           0/7 ( 0.0%)
+# Score: 24.0
+# 
+#
+#=======================================
+
+NP_000509.1       12 VTALWGK     18
+                     :|.:|.|
+mutatedSequen    133 LTGMWNK    139
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence22
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 31
+# Identity:       7/31 (22.6%)
+# Similarity:    11/31 (35.5%)
+# Gaps:           0/31 ( 0.0%)
+# Score: 24.0
+# 
+#
+#=======================================
+
+NP_000509.1       38 WTQRFFESFGDLSTPDAVMGNPKVKAHGKKV     68
+                     |:...|....:....|...|:...|.|..:|
+mutatedSequen     57 WSHHNFHGTLEHYAVDCTRGSMMQKDHPYRV     87
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence23
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 4
+# Identity:       4/4 (100.0%)
+# Similarity:     4/4 (100.0%)
+# Gaps:           0/4 ( 0.0%)
+# Score: 28.0
+# 
+#
+#=======================================
+
+NP_000509.1      144 HKYH    147
+                     ||||
+mutatedSequen     60 HKYH     63
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence24
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 33
+# Identity:       8/33 (24.2%)
+# Similarity:    14/33 (42.4%)
+# Gaps:           3/33 ( 9.1%)
+# Score: 22.5
+# 
+#
+#=======================================
+
+NP_000509.1       31 RLLVVYPWTQRFFESFGDLSTPDAVM--GNPKV     61
+                     |:.|:..| ..:...:..|..|.:.|  .||.:
+mutatedSequen     89 RMTVIISW-YTYERHYVILREPQSHMVDSNPPI    120
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence25
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 34
+# Identity:       8/34 (23.5%)
+# Similarity:    13/34 (38.2%)
+# Gaps:          10/34 (29.4%)
+# Score: 23.0
+# 
+#
+#=======================================
+
+NP_000509.1       72 FSDGLAHLDNL---------KGTFATLSELHCDK     96
+                     |.|.:....|:         .|| |.:..:||.:
+mutatedSequen     43 FGDNIGFQRNMAMFWRYNKYHGT-AEIYGVHCTR     75
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence26
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 11
+# Identity:       5/11 (45.5%)
+# Similarity:     5/11 (45.5%)
+# Gaps:           0/11 ( 0.0%)
+# Score: 27.0
+# 
+#
+#=======================================
+
+NP_000509.1      137 GVANALAHKYH    147
+                     |...|..|.||
+mutatedSequen     76 GKTPAFRHPYH     86
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence27
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 7
+# Identity:       5/7 (71.4%)
+# Similarity:     6/7 (85.7%)
+# Gaps:           0/7 ( 0.0%)
+# Score: 26.0
+# 
+#
+#=======================================
+
+NP_000509.1      101 PENFRLL    107
+                     |||.||:
+mutatedSequen    119 PENERLM    125
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence28
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 24
+# Identity:       6/24 (25.0%)
+# Similarity:    11/24 (45.8%)
+# Gaps:           2/24 ( 8.3%)
+# Score: 25.5
+# 
+#
+#=======================================
+
+NP_000509.1       36 YPWTQRFFESFGDLSTPDAVMGNP     59
+                     :.|.::...|:|  ..|....|:|
+mutatedSequen     25 WQWGKQKHRSYG--RCPPVEKGDP     46
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence29
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 12
+# Identity:       4/12 (33.3%)
+# Similarity:     6/12 (50.0%)
+# Gaps:           0/12 ( 0.0%)
+# Score: 22.0
+# 
+#
+#=======================================
+
+NP_000509.1       36 YPWTQRFFESFG     47
+                     :.|..:...|||
+mutatedSequen     25 WQWGAQDHRSFG     36
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence30
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 17
+# Identity:       5/17 (29.4%)
+# Similarity:     8/17 (47.1%)
+# Gaps:           4/17 (23.5%)
+# Score: 20.5
+# 
+#
+#=======================================
+
+NP_000509.1       34 VVYP----WTQRFFESF     46
+                     |::|    |....:.||
+mutatedSequen     19 VMFPPELQWATFDYRSF     35
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence31
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 19
+# Identity:       7/19 (36.8%)
+# Similarity:    10/19 (52.6%)
+# Gaps:           8/19 (42.1%)
+# Score: 26.0
+# 
+#
+#=======================================
+
+NP_000509.1       34 VVYP----WT----QRFFE     44
+                     |::|    |.    :||||
+mutatedSequen     19 VMFPPELQWATFDYKRFFE     37
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence32
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 19
+# Identity:       7/19 (36.8%)
+# Similarity:    10/19 (52.6%)
+# Gaps:           8/19 (42.1%)
+# Score: 26.0
+# 
+#
+#=======================================
+
+NP_000509.1       34 VVYP----W----TQRFFE     44
+                     |::|    |    .:||||
+mutatedSequen     19 VMFPPELGWNTFDNKRFFE     37
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence33
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 10
+# Identity:       6/10 (60.0%)
+# Similarity:     7/10 (70.0%)
+# Gaps:           3/10 (30.0%)
+# Score: 28.0
+# 
+#
+#=======================================
+
+NP_000509.1       38 WT---QRFFE     44
+                     ||   :||||
+mutatedSequen     28 WTFYNKRFFE     37
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence34
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 5
+# Identity:       3/5 (60.0%)
+# Similarity:     5/5 (100.0%)
+# Gaps:           0/5 ( 0.0%)
+# Score: 22.0
+# 
+#
+#=======================================
+
+NP_000509.1       75 GLAHL     79
+                     |:||:
+mutatedSequen    132 GIAHM    136
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence35
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 31
+# Identity:       9/31 (29.0%)
+# Similarity:    15/31 (48.4%)
+# Gaps:           2/31 ( 6.5%)
+# Score: 28.5
+# 
+#
+#=======================================
+
+NP_000509.1      106 LLGNV--LVCVLAHHFGKEFTPPVQAAYQKV    134
+                     :.||:  .||.|..:...:|....:.|.|:|
+mutatedSequen     29 MFGNIRFFVCNLCTNMDFQFKSYPRLAKQQV     59
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence36
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 101
+# Identity:      17/101 (16.8%)
+# Similarity:    36/101 (35.6%)
+# Gaps:          24/101 (23.8%)
+# Score: 25.5
+# 
+#
+#=======================================
+
+NP_000509.1       55 VMGNPKVKAH-------GKKVLGAFSDGLAHL----DNLKGTFATLSELH     93
+                     :.|:.:..:|       |:.:.|....|:.:|    |....::..|:...
+mutatedSequen      9 IWGDGRKASHVMFSDSLGQWMFGTIRFGVCNLCTNMDEQHKSYPRLAMTQ     58
+
+NP_000509.1       94 CD-KLH----------VDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQ    132
+                     .| |.|          .:..|:|  ...:.|.....|.:.||...:..::
+mutatedSequen     59 VDRKAHPAEYYGPAGIKNKTNYR--RGFIACKRMWRFVRNFTQEERLMFE    106
+
+NP_000509.1      133 K    133
+                     :
+mutatedSequen    107 Q    107
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence37
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 9
+# Identity:       5/9 (55.6%)
+# Similarity:     7/9 (77.8%)
+# Gaps:           0/9 ( 0.0%)
+# Score: 30.0
+# 
+#
+#=======================================
+
+NP_000509.1       36 YPWTQRFFE     44
+                     ||.|::.||
+mutatedSequen     98 YPETRKMFE    106
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence38
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 22
+# Identity:       6/22 (27.3%)
+# Similarity:    10/22 (45.5%)
+# Gaps:           4/22 (18.2%)
+# Score: 26.5
+# 
+#
+#=======================================
+
+NP_000509.1       27 EALGRLLV----VYPWTQRFFE     44
+                     |..||::.    ..||.|..::
+mutatedSequen    108 EPQGRMMTHEGDKQPWVQNDYK    129
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: mutatedSequence39
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 23
+# Identity:       8/23 (34.8%)
+# Similarity:    12/23 (52.2%)
+# Gaps:           1/23 ( 4.3%)
+# Score: 26.0
+# 
+#
+#=======================================
+
+NP_000509.1      125 PPVQAAY-QKVVAGVANALAHKY    146
+                     |.||..| |.:.|.:...:.:||
+mutatedSequen    122 PWVQNDYCQHMPADMEETIEYKY    144
+
+
+#---------------------------------------
+#---------------------------------------
